@@ -564,7 +564,6 @@ nav .mbr-section-btn {
 
 .menu .navbar-brand span {
   display: flex;
-  display: flex;
 }
 
 .menu .navbar-brand .navbar-caption-wrap {
@@ -573,7 +572,6 @@ nav .mbr-section-btn {
 
 .menu .navbar-brand .navbar-logo img {
   display: flex;
-  width: auto;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -628,7 +626,7 @@ nav .mbr-section-btn {
 }
 
 .navbar-collapse {
- flex-basis: 100%;
+  flex-basis: 100%;
   flex-grow: 1;
   align-items: center;
 }
@@ -1036,7 +1034,6 @@ blockquote {
   flex-shrink: 0;
   align-items: center;
   margin-right: 0;
-  padding: 10px 0;
   transition: all 0.3s;
   word-break: break-word;
   z-index: 1;
@@ -1249,11 +1246,6 @@ blockquote {
   padding: 0.5rem 1.8rem;
 }
 
-.cid-u3uDIZuFfg .navbar .navbar-logo img {
-  min-width: 6rem;
-  object-fit: cover;
-}
-
 .cid-u3uDIZuFfg .navbar .navbar-collapse {
   z-index: 1;
   justify-content: flex-end;
@@ -1358,7 +1350,6 @@ blockquote {
     flex-shrink: initial;
     flex-basis: auto;
     word-break: break-word;
-    padding-right: 10px;
   }
 
   .cid-u3uDIZuFfg .navbar .navbar-toggler {
@@ -1370,10 +1361,6 @@ blockquote {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
   }
-}
-
-.cid-u3uDIZuFfg .navbar.navbar-short .navbar-logo img {
-  height: 2rem;
 }
 
 .cid-u3uDIZuFfg .dropdown-item.active,
@@ -2789,20 +2776,20 @@ blockquote {
 }
 
 :root {
-      --background: #E7F3F7;
-      --dominant-color: #118AB2;
-      --primary-color: #EF476F;
-      --secondary-color: #69CFA9;
-      --success-color: #2BD888;
-      --danger-color: #DA293A;
-      --warning-color: #FFC004;
-      --info-color: #11CCF2;
-      --background-text: #000000;
-      --dominant-text: #FFFFFF;
-      --primary-text: #FFFFFF;
-      --secondary-text: #000000;
-      --success-text: #000000;
-      --danger-text: #FFFFFF;
-      --warning-text: #000000;
-      --info-text: #000000;
-    }
+  --background: #E7F3F7;
+  --dominant-color: #118AB2;
+  --primary-color: #EF476F;
+  --secondary-color: #69CFA9;
+  --success-color: #2BD888;
+  --danger-color: #DA293A;
+  --warning-color: #FFC004;
+  --info-color: #11CCF2;
+  --background-text: #000000;
+  --dominant-text: #FFFFFF;
+  --primary-text: #FFFFFF;
+  --secondary-text: #000000;
+  --success-text: #000000;
+  --danger-text: #FFFFFF;
+  --warning-text: #000000;
+  --info-text: #000000;
+}
