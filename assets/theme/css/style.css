@@ -2793,3 +2793,9 @@ blockquote {
   --warning-text: #000000;
   --info-text: #000000;
 }
+
+.plus_icon {
+  font-size: 5rem;
+  color: var(--primary-color, #d70081);
+  margin-bottom: 2rem;
+}
