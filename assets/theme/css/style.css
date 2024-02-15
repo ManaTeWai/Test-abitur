@@ -2937,3 +2937,24 @@ body::-webkit-scrollbar-thumb {
 .cid-so3AxPydTv H3 {
   text-align: center;
 }
+
+.soc-item img {
+  width: 50px;
+}
+
+
+#vk_soc img {
+  width: 75px;
+}
+
+.footer3 {
+  background-color: #e6f3f7;
+}
+
+.footer3 .header-menu a {
+  color: black !important;
+}
+
+.footer3 .copyright {
+  color: black !important;
+}
